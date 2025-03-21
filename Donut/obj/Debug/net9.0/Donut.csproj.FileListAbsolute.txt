@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\bin\Debug\net9.0\Donut.exe
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\bin\Debug\net9.0\Donut.deps.json
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\bin\Debug\net9.0\Donut.runtimeconfig.json
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\bin\Debug\net9.0\Donut.dll
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\bin\Debug\net9.0\Donut.pdb
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\Donut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\Donut.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\Donut.AssemblyInfo.cs
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\Donut.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\Donut.dll
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\refint\Donut.dll
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\Donut.pdb
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\Donut.genruntimeconfig.cache
+C:\Users\admin\Desktop\c#Practice\Donut\Donut\obj\Debug\net9.0\ref\Donut.dll
